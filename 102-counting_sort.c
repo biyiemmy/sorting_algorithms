@@ -6,7 +6,6 @@
  * Counting sort algorithm
  * @array: array to sort
  * @size: size of the array to sort
- *
  * Return: void
  */
 void counting_sort(int *array, size_t size)
