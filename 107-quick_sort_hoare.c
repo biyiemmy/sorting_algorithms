@@ -65,7 +65,6 @@ void quicksort(int *array, ssize_t lo, ssize_t hi, size_t size)
  * Quick sort algorithm
  * @array: The array to sort
  * @size: The size of the array
- *
  * Return: void
  */
 void quick_sort_hoare(int *array, size_t size)
